@@ -1,3 +1,9 @@
+#### Name: [Danial Hasan](https://github.com/danialhasan)
+ - Place: Toronto, Canada
+ - Bio: Full time student, part time web developer.
+ - Website: [Portfolio](https://www.danialhasan.github.io/portfolio)
+ - Github: [Github](https://github.com/danialhasan)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
